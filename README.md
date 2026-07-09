@@ -99,5 +99,3 @@ The dashboard enables business users to quickly identify fraud-prone areas and u
 **Priyanka Varasala**
 
 Aspiring Data Analyst | Power BI | Tableau | SQL | Advanced Excel | Python | MIS Reporting | Data Visualization
-
-Aspiring Data Analyst | Power BI | Tableau | SQL | Advanced Excel | Python | MIS Reporting | Data Visualization
